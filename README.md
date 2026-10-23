@@ -19,7 +19,7 @@
 
 > **Contexte :** projet universitaire de Master 1 réalisé sur un jeu de données public. Les chiffres correspondent à la description du jeu de données, et non à des performances mesurées de Spark.
 
-## Objectifs analytiques
+## Analyses réalisées dans le notebook
 
 | Étape | Travail étudié |
 |---|---|
@@ -38,7 +38,7 @@
 
 [**Notebook Jupyter**](notebooks/01_setup_et_ingestion.ipynb) · [**Dépendances**](requirements.txt) · [**Code du dépôt**](notebooks/)
 
-> **Disponibilité des livrables :** le dépôt public contient actuellement un notebook intitulé `01_setup_et_ingestion.ipynb`. Les autres étapes sont présentées comme objectifs du projet ; leur réalisation complète ne peut pas être déduite de la seule présence de ce fichier.
+> **Livrable principal :** malgré son nom `01_setup_et_ingestion.ipynb`, le notebook contient **les cinq parties du projet** : ingestion, analyse exploratoire, transformations avancées, optimisation et clustering K-Means. Les différentes étapes sont réunies dans un même notebook.
 
 ---
 
